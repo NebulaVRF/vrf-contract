@@ -1,4 +1,4 @@
- # NebulaVRF Soroban Contracts
+ # NebulaVRF Testnet Contract
 
 NebulaVRF is a Soroban smart contract that provides verifiable, on-chain randomness using BLS12-381 and a commit–reveal scheme. This repo contains the testnet contract and integration docs; payload generation utilities and the local API live in `vrf-core`.
 
